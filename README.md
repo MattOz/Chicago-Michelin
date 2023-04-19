@@ -14,6 +14,8 @@ An interactive full stack application that allows user to view Michelin star res
 ## Usage
 Use the app via the Heroku link
 
+[Heroku Link](https://ancient-wildwood-93900.herokuapp.com/)
+
 ## Credits
 This project was a collaborative effort between group members Matt, Allison, Justin, and Jack (see below for our individual GitHub profiles).
 
